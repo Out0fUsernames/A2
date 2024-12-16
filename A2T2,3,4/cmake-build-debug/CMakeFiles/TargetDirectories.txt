@@ -1,0 +1,3 @@
+C:/Users/m_sha/Documents/2024-2025/OOP/A2T2,3,4/cmake-build-debug/CMakeFiles/A2T2_3_4.dir
+C:/Users/m_sha/Documents/2024-2025/OOP/A2T2,3,4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/m_sha/Documents/2024-2025/OOP/A2T2,3,4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
